@@ -3,13 +3,13 @@
 ### Java OEPs to understand various concepts including it's libraries, while also making changes & improving the gameplay.
 Credit goes to KennyYip tutorials, highly recommended for learning & coding games in Java.
 
-# 🐍 Java Snake Game
+# Java Snake Game
 
 A simple **Snake Game** built using **Java Swing**. Move the snake, collect the red food, and avoid hitting yourself or the walls! Press **R** to restart after game over.
 
 ---
 
-## 🎮 Game Features
+## Game Features
 
 - Classic snake mechanics (head + growing tail)
 - Arrow key movement (↑ ↓ ← →)
@@ -20,7 +20,7 @@ A simple **Snake Game** built using **Java Swing**. Move the snake, collect the 
 
 ---
 
-## 🧱 Technologies Used
+## Technologies Used
 
 - Java (Core)
 - Java Swing (`JFrame`, `JPanel`, `Timer`, `Graphics`)
